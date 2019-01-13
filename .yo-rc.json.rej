@@ -1,0 +1,67 @@
+diff a/.yo-rc.json b/.yo-rc.json	(rejected hunks)
+@@ -2,32 +2,32 @@
+-  "generator-jhipster": {
+-    "promptValues": {
+-      "packageName": "ro.pro",
+-      "microservicePath": "../shop"
+-    },
+-    "jhipsterVersion": "5.7.2",
+-    "applicationType": "gateway",
+-    "baseName": "blog",
+-    "packageName": "ro.pro",
+-    "packageFolder": "ro/pro",
+-    "serverPort": "8080",
+-    "authenticationType": "oauth2",
+-    "cacheProvider": "hazelcast",
+-    "enableHibernateCache": true,
+-    "websocket": false,
+-    "databaseType": "sql",
+-    "devDatabaseType": "h2Disk",
+-    "prodDatabaseType": "mysql",
+-    "searchEngine": "elasticsearch",
+-    "messageBroker": false,
+-    "serviceDiscoveryType": "eureka",
+-    "buildTool": "maven",
+-    "enableSwaggerCodegen": false,
+-    "clientFramework": "angularX",
+-    "useSass": false,
+-    "clientPackageManager": "npm",
+-    "testFrameworks": [],
+-    "jhiPrefix": "jhi",
+-    "otherModules": [],
+-    "enableTranslation": false
+-  }
+-}
+\ No newline at end of file
++    "generator-jhipster": {
++        "promptValues": {
++            "packageName": "ro.pro",
++            "microservicePath": "../shop"
++        },
++        "jhipsterVersion": "5.7.2",
++        "applicationType": "gateway",
++        "baseName": "blog",
++        "packageName": "ro.pro",
++        "packageFolder": "ro/pro",
++        "serverPort": "8080",
++        "authenticationType": "oauth2",
++        "cacheProvider": "hazelcast",
++        "enableHibernateCache": true,
++        "websocket": false,
++        "databaseType": "sql",
++        "devDatabaseType": "h2Disk",
++        "prodDatabaseType": "mysql",
++        "searchEngine": "elasticsearch",
++        "messageBroker": false,
++        "serviceDiscoveryType": "eureka",
++        "buildTool": "maven",
++        "enableSwaggerCodegen": false,
++        "clientFramework": "angularX",
++        "useSass": false,
++        "clientPackageManager": "npm",
++        "testFrameworks": [],
++        "jhiPrefix": "jhi",
++        "otherModules": [],
++        "enableTranslation": false
++    }
++}
